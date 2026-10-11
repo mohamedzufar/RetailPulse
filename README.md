@@ -32,3 +32,8 @@ Forecast metrics are based on historical test data. Inventory recommendations us
 
 ## Project Status
 Data science internship project.
+
+## Live Demo
+
+Try the deployed application: https://retailpulse-ispeikkn3i76p.streamlit.app/
+
