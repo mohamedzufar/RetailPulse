@@ -1,0 +1,10 @@
+metric,value
+cleaned_transactions,392692
+unique_invoices,18532
+unique_customers,4338
+unique_products,3665
+total_revenue,8887208.89
+average_order_value,479.56
+average_customer_revenue,2048.69
+date_start,2010-12-01 08:26:00
+date_end,2011-12-09 12:50:00

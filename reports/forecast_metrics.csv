@@ -1,0 +1,7 @@
+metric,value
+MAE,11431.654630159297
+RMSE,21388.952668090886
+MAPE_nonzero_days_percent,31.15777022969915
+Baseline_lag7_MAE,13198.402285714288
+Training_days,276.0
+Test_days,70.0
